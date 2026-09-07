@@ -4,6 +4,7 @@ This repository contains my Simulation and Modeling Lab assignments and practica
 
 ## Course Information
 
+<<<<<<< HEAD
 - **Course:** CSE 413 - Simulation and Modeling Lab
 - **Student:** Mehedi Hassan Bhuiyan
 - **Student ID:** 0432320005101080
@@ -13,6 +14,18 @@ This repository contains my Simulation and Modeling Lab assignments and practica
 
 - [Lab 1 - Scalar, Array & Matrix Operations](SIM_Lab1_MehediHassanBhuiyan_1080.ipynb)
 - [Lab 2 - Unique Matrix Value Investigation](SIM_Lab2_MehediHassanBhuiyan_1080.ipynb)
+=======
+- Course: CSE 413
+- Student: Mehedi Hassan Bhuiyan
+- University: University of Information Technology and Sciences (UITS)
+- Section: 7B
+- Roll: 0432320005101080
+
+## Lab Files
+
+- `SIM_Lab1_MehediHassanBhuiyan_StudentID.ipynb`
+- `two_sample_t_test.ipynb`
+>>>>>>> e750a68 (Assignment 3)
 
 ## Topics Covered
 
@@ -27,6 +40,7 @@ This repository contains my Simulation and Modeling Lab assignments and practica
 - Rounding Operations
 - Vector Functions
 - Statistical Operations
+<<<<<<< HEAD
 - Matrix Visualization
 
 ### Lab 2
@@ -44,3 +58,9 @@ This repository contains my Simulation and Modeling Lab assignments and practica
 - Python
 - NumPy
 - Jupyter Notebook
+=======
+- Two-Sample t-Test
+- Hypothesis Testing
+- Pooled Variance
+- 95% Confidence Interval
+>>>>>>> e750a68 (Assignment 3)
